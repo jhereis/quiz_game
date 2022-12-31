@@ -1,1 +1,1 @@
-# quizgameinPy
+# quizgame
